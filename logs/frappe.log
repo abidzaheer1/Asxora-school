@@ -1,0 +1,12 @@
+2025-03-19 12:09:36,469 ERROR frappe New Exception collected in error log
+Site: development.localhost
+Form Dict: {'data_import_name': 'Student Import on 2025-03-19 04:40:16.025304', 'cmd': 'frappe.core.doctype.data_import.data_import.get_import_status'}
+2025-03-19 12:38:58,508 ERROR frappe New Exception collected in error log
+Site: development.localhost
+Form Dict: {'data_import_name': 'Student Import on 2025-03-19 04:40:16.025304', 'cmd': 'frappe.core.doctype.data_import.data_import.get_import_status'}
+2025-03-19 20:00:33,199 ERROR frappe New Exception collected in error log
+Site: development.localhost
+Form Dict: {'txt': '', 'doctype': 'DocType', 'reference_doctype': '', 'page_length': '10', 'filters': '{"istable":0}'}
+2025-03-19 20:00:33,203 ERROR frappe New Exception collected in error log
+Site: development.localhost
+Form Dict: {'txt': 'att', 'doctype': 'DocType', 'reference_doctype': '', 'page_length': '10', 'filters': '{"istable":0}'}
